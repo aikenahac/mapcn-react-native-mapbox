@@ -19,11 +19,11 @@ function MapContent({ hasPermission }: { hasPermission: boolean }) {
         duration: 1500,
       });
     }
-  }, [cameraRef])
+  }, [cameraRef]);
 
   useEffect(() => {
     handleLocate();
-  }, [handleLocate])
+  }, [handleLocate]);
 
   return (
     <>

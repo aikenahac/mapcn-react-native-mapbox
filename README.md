@@ -29,6 +29,8 @@
 - 🛤️ **Routes** — Draw routes and paths on your maps
 - 🎮 **Controls** — Zoom, compass, locate, and fullscreen controls
 
+Check out [mapcn-rn.dev](https://mapcn-rn.dev) for docs and [install the mapbox component here](https://mapcn-rn.dev/docs/commercial-use)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
