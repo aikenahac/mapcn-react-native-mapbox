@@ -7,7 +7,6 @@
     "icon": "./src/assets/images/icon.png",
     "scheme": "mapcn-rn-mapbox",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
     "ios": {
       "icon": "./src/assets/images/icon.icon/",
       "supportsTablet": true,
